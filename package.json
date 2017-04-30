@@ -1,0 +1,25 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Javascript utils function for daily work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yakima-Teng/utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "cleveryun@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yakima-Teng/utils/issues"
+  },
+  "homepage": "https://github.com/Yakima-Teng/utils#readme",
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3"
+  }
+}
